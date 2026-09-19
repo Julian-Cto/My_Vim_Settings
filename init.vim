@@ -18,6 +18,7 @@ set showmatch
 " make searching highlighed
 set hlsearch
 set background=dark
-source ~/.config/nvim/vim/colors/badwolf.vim
+" source ~/.config/nvim/vim/colors/badwolf.vim
+source ~/.config/nvim/vim/colors/gruvbox.vim
 " source ~/.config/nvim/vim/colors/srcery.vim
 " color desert 
